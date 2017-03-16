@@ -1,0 +1,203 @@
+Clothes:
+5 - Tunic of the wild
+
+14 lower - climbing boots
+
+18 - gurodo secret club
+
+26 - sapphire circlet (head only)
+
+29 - amber earings - head only
+
+35 - cap/stuff of the wild +1
+
+36 - snowquill +1
+
+37 - flamebreaker +1
+
+39 - wild +2
+
+40 - desert voe spaulder +1
+
+46 - rubber armour
+
+48 - barbarian
+
+53 - gurodo veil stuff
+
+56 - lynel mask
+
+60 - Wild +3
+
+61 - cap of wild +3
+
+62 - zora +2
+63 - zora +3
+64 - Zora +4
+
+65 - desert voe +2
+66 - desert voe +3
+67 - desert voe +4
+
+71 - snowquil +2
+72 - snowquil +3
+73 - snowquil +4
+
+74 - flamebreaker +2
+75 - flamebreaker +3
+76 - flamebreaker +4
+
+77 - stealth +2
+78 - stealth +3
+79 - stealth +4
+
+83 - climbing +1
+84 - climbing +2
+85 - climbing +3
+86 - climbing +4
+
+87 - radiant +1
+88 - radiant +2
+89 - radiant +3
+90 - radiant +4
+
+95 - soldier +1
+96 - soldier +2
+97 - soldier +3
+98 - soldier +4
+
+99 - ancient +1
+100 - ancient +2
+101 - ancient +3
+102 - ancient +4
+
+103 - rubber +1
+104 - rubber +2
+105 - rubber +3
+106 - rubber +4
+
+111 - barbarian +1
+112 - barbarian +2
+113 - barbarian +3
+114 - barbarian +4
+
+115 - thunder helm
+
+117 - diamond circlet +1
+118 - diamond circlet +2
+119 - diamond circlet +3
+120 - diamond circlet +4
+
+121 - ruby Circlet +1
+122 - ruby Circlet +2
+123 - ruby Circlet +3
+124 - ruby Circlet +4
+
+125 - saphire circlet +1
+126 - saphire circlet +2
+127 - saphire circlet +3
+128 - saphire circlet +4
+
+129 - Topaz earings +1
+130 - Topaz earings +2
+131 - Topaz earings +3
+132 - Topaz earings +4
+
+133 - opal earings +1
+134 - opal earings +2
+135 - opal earings +3
+136 - opal earings +4
+
+137 - amber earings +1
+138 - amber earings +2
+139 - amber earings +3
+140 - amber earings +4 - snow boots
+
+149 - champions tunic +2
+
+154 - Sand Boots +3 (on own?)
+157 - snow boots +2
+
+160 - Dark Link
+
+200 - Time
+201 - Time +1
+202 - Time +2
+203 - Time +3
+204 - Time +4
+
+205 - Wind
+206 - Wind +1
+207 - Wind +2
+208 - Wind +3
+209 - Wind +4
+
+210 - Twilight
+211 - Twilight +1
+212 - Twilight +2
+213 - Twilight +3
+214 - Twilight +4
+
+215 - Sky
+216 - Sky +1
+217 - Sky +2
+218 - Sky +3
+219 - Sky +4
+
+220 - Shielks Mask 
+221 - Shielks Mask +1
+222 - Shielks Mask +2
+223 - Shielks Mask +3
+224 - Shielks Mask +4
+
+225 - Feice Deity
+226 - Feice Deity +1
+227 - Feice Deity +2
+228 - Feice Deity +3
+229 - Feice Deity +4
+
+230 - Hero
+231 - Hero +1
+232 - Hero +2
+233 - Hero +3
+234 - Hero +4
+
+-----Weapons-----
+
+sword:
+
+70 - master sword
+61 - ice rod
+65 - lightning rod
+60 - Fire Rod
+59 - sea-breeze boomerang
+58 - sword
+57 - goddess sword
+56 - Master Sword (WO/ Charge)
+
+
+Lsword:
+
+60 - Fierce Deity
+59 - Biggoron Sword
+57 - Sword of the Six Sages
+54 - Boulder Breaker
+
+Shield:
+
+57 - Hero's Shield
+60 - Hyrulian Shield
+
+
+Bow:
+
+72 - Twilight Bow?
+71 - Light Bow
+36 - Royal
+35 - knight
+33 - royal guard
+32 - Savage Lynel
+28 - Great Eagle Bow
+26 - Mighty Lynel Bow
+23 - Ancient Bow
+9 - Lynel Bow
