@@ -1,3 +1,5 @@
+Item ID#'s
+
 Clothes:
 5 - Tunic of the wild
 
@@ -161,6 +163,10 @@ Clothes:
 232 - Hero +2
 233 - Hero +3
 234 - Hero +4
+
+-----Arrows-----
+Arrow:
+AcientArrow - Ancient Arrow
 
 -----Weapons-----
 
